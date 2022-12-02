@@ -1,3 +1,2 @@
 # Nodes.
-#
-# VPS | Code | Guide
+VPS | Code | Guide
